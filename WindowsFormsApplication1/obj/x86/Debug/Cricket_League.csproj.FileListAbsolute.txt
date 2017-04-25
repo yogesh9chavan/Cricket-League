@@ -1,0 +1,9 @@
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\Cricket_League.csprojResolveAssemblyReference.cache
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\Cricket_League.csproj.GenerateResource.Cache
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Cricket_League\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,8 @@
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\bin\Debug\Cricket_League.Tests.dll.config
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\bin\Debug\Cricket_League.Tests.dll
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\bin\Debug\Cricket_League.Tests.pdb
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\bin\Debug\Cricket_League.dll
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\bin\Debug\Cricket_League.pdb
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\obj\Debug\Cricket_League.Tests.csprojResolveAssemblyReference.cache
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\obj\Debug\Cricket_League.Tests.dll
+c:\users\yogesh\documents\visual studio 2010\Projects\Cricket_League\Cricket_League.Tests\obj\Debug\Cricket_League.Tests.pdb
